@@ -83,13 +83,13 @@
             <h2 class="text-3xl font-bold text-center mb-10 text-softPink-600">tentang saya</h2>
             <div class="text-center">
                 <p class="text-lg mb-4">
-                    Saya adalah siswi SMK yang antusias belajar hal-hal baru, khususnya di dunia teknologi dan kreatif. Meskipun belum memiliki pengalaman kerja formal, saya sedang membangun dasar-dasar saya melalui pendidikan dan proyek pribadi.
+                    Saya adalah siswi SMK yang antusias belajar hal-hal baru, khususnya di dunia teknologi dan kreatif. Meskipun belum memiliki pengalaman yang formal, saya sedang membangun dasar-dasar saya melalui pendidikan dan proyek pribadi.
                 </p>
                 <p class="text-lg mb-4">
                     Saya fokus belajar bahasa pemograman untuk membangun aplikasi sederhana, desain grafis menggunakan Canva untuk membuat konten visual menarik, dan keterampilan komunikasi untuk berinteraksi efektif dengan orang lain.
                 </p>
                 <p class="text-lg">
-                    Mimpinya adalah menjadi profesional di bidang IT atau desain, membantu orang lain melalui teknologi dan seni digital.
+                    Mimpinya adalah menjadi profesional di bidang desain, membantu orang lain melalui teknologi dan seni digital.
                 </p>
             </div>
         </div>
@@ -104,7 +104,7 @@
                     <div class="w-32 h-32 mx-auto mb-4 bg-softPink-200 rounded-full flex items-center justify-center text-softPink-600 font-bold text-2xl">💻</div>
                     <h3 class="text-xl font-semibold mb-2 text-softPink-600">Bahasa Pemograman</h3>
                     <p class="text-gray-700">
-                        Sedang belajar JavaScript, Python, dan HTML/CSS untuk membuat situs web sederhana dan aplikasi dasar. Fokus pada logika pemograman dan debugging.
+                        Sedang belajar JavaScript, Python, dan HTML/CSS untuk membuat situs web 
                     </p>
                 </div>
                 <div class="skill-card bg-white p-6 rounded-lg shadow-md text-center">
@@ -129,7 +129,9 @@
     <section id="contact" class="py-16 bg-white">
         <div class="max-w-7xl mx-auto px-4 text-center">
             <h2 class="text-3xl font-bold mb-8 text-softPink-600">Hubungi Saya</h2>
-            <p class="text-lg mb-6">Mari kita terhubung! Saya terbuka untuk diskusi, kolaborasi, atau pertanyaan tentang apa saja yang sedang saya pelajari.</p>
+            <p class="text-lg mb-6">Mari ☎️:085194335008
+            📸:aprilsgrin
+            📩:aprilsagrinn@gmail.com</p>
             <form id="contactForm" class="max-w-md mx-auto mb-6">
                 <input type="text" id="name" placeholder="Nama Anda" class="w-full mb-4 p-3 border border-gray-300 rounded-md" required>
                 <input type="email" id="email" placeholder="Email Anda" class="w-full mb-4 p-3 border border-gray-300 rounded-md" required>
